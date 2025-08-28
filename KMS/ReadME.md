@@ -1,5 +1,7 @@
 # Encrypt Data with AWS KMS
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/15.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-kms)
 
 **Author:** Nchindo Boris  
