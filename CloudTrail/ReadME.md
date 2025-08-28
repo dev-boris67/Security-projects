@@ -1,5 +1,7 @@
 # Build a Security Monitoring System
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/17.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-monitoring)
 
 **Author:** Nchindo Boris  
