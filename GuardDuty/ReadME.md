@@ -1,5 +1,7 @@
 # Threat Detection with GuardDuty
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/16.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-guardduty)
 
 **Author:** Nchindo Boris  
